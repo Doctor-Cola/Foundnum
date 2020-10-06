@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>游戏下载</title>
+</head>
+<body>
+<center>
+    <!--下载-->
+    <h1>猜数字游戏官方下载界面</h1>
+    <p>下载最新版本</p>
+    <a href=".\game\install.zip">戳我下载安装文件</a>
+    <a href="https://little-idea.github.io/Foundnum/help.html">戳我查看安装教程</a>
+    <p>下载旧版本的游戏<a href="https://little-idea.github.io/Foundnum/history.html">戳我</a></p>
+    <p>下载测试版的游戏<a href="https://little-idea.github.io/Foundnum/beta.html">戳我</a></p>
+    <h4><a href=".\game\install -patch uninstall.zip" style="color: red">!!!点我下载最新的版本（有卸载补丁）!!!</a></h4>
+    <!--中国河北石家庄81中董佳鑫制作-->
+
+</center>
+</body>
+</html>
